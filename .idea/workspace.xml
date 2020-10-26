@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85832458-3dcf-4dc0-89bb-cfd424945de5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DSA/.idea/DSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA/demo_arrayList_linkedList" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecToBin/DecToBin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecToBin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PriorityQueue/Patient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dancer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.dsa.queue/Element.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.dsa.queue/PEQueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.dsa.queue/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/Element.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/PEQueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/PalindromeQueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/ReverseStack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/indexbt3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c2.php.dsa.stack/tetqueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/Student.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/StudentManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/linked_list/LinkedList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dsa/linked_list/Node.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jP84l5zyPgZXkYsjxfqNoX3Ms7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85832458-3dcf-4dc0-89bb-cfd424945de5" name="Default Changelist" comment="" />
+      <created>1603694176973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603694176973</updated>
+      <workItem from="1603694178151" duration="3982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="852" y="220" width="351" height="370" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603694510858">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="852" y="220" width="351" height="370" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1294.741@72.27.1294.741" timestamp="1603694510858" />
+    <state x="808" y="117" width="449" height="568" key="NewPhpClassDialog" timestamp="1603694455075">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="808" y="117" width="449" height="568" key="NewPhpClassDialog/72.27.1294.741@72.27.1294.741" timestamp="1603694455075" />
+    <state x="833" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1603694537430">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="833" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1603694537430" />
+  </component>
+</project>
